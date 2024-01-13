@@ -1,0 +1,8 @@
+.feedbackBtns {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.feedbackBtns button {
+  cursor: pointer;
+}
